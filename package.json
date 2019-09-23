@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.config.js --mode development",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d public",
+    "deploy": "gh-pages -d public --repo git@github.com:plc-dev.github.io.git",
     "build": "npx webpack --mode production"
   },
   "homepage": "http://plc-dev.plc-dev.github.io",

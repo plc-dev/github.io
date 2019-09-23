@@ -58,7 +58,7 @@ export default () => (
 		<Container>
 			<ItemContainer>
 				<Item
-					data="Github Link"
+					data="Github"
 					link="https://github.com/plc-dev"
 					image={github}
 				/>

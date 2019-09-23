@@ -1,9 +1,12 @@
 [
 	{
-		"id": 1, 
+		"id": 1,
 		"name": "A Clockwork Magenta Registration",
-		"roles": ["Full Stack Developer", "UI/UX Design"],
-		"description": "A small application to handle the visitors of a fair and managing their exhibit, used by T-Systems.",
+		"roles": [
+			"Full Stack Developer",
+			"UI/UX Design"
+		],
+		"description": "MVP to handle the visitors of a fair and managing the fair-exhibit, used by T-Systems.",
 		"technologyUsed": [
 			"VueJS",
 			"Vuex",
@@ -20,19 +23,22 @@
 		"links": [
 			{
 				"name": "Demo",
-				"url": "https://thawing-retreat-24861.herokuapp.com/"
+				"url": "https://magenta-clockwork-demo.herokuapp.com/overview"
 			},
 			{
-				"name": "Repo",
-				"url": ""
+				"name": "Github",
+				"url": "https://github.com/plc-dev/magenta-clockwork-registration"
 			}
 		],
 		"status": "Done"
 	},
 	{
 		"id": 2,
-		"name": "How To Music!",
-		"roles": ["Owner", "Front-end Developer"],
+		"name": "How to read notes!",
+		"roles": [
+			"Owner",
+			"Full Stack Developer"
+		],
 		"description": "A small PWA example.",
 		"technologyUsed": [
 			"Javascript",
@@ -45,12 +51,12 @@
 		"logoLink": "https://res.cloudinary.com/plc/image/upload/v1562783022/portfolio/bart_cw6e97.jpg",
 		"date": "April 2019",
 		"links": [
-			{ 
-				"name": "Website", 
-				"url": "https://noten-lernen.firebaseapp.com/" 
+			{
+				"name": "Demo",
+				"url": "https://noten-lernen.firebaseapp.com/"
 			},
 			{
-				"name": "Repo",
+				"name": "Github",
 				"url": "https://github.com/plc-dev/PWA"
 			}
 		],
@@ -59,7 +65,10 @@
 	{
 		"id": 3,
 		"name": "Track Everything!",
-		"roles": ["Owner", "Full Stack Developer"],
+		"roles": [
+			"Owner",
+			"Full Stack Developer"
+		],
 		"description": "Expenses, Food, Training... You gotta track em ALL!!",
 		"technologyUsed": [
 			"VueJS",
@@ -73,9 +82,12 @@
 		"logoLink": "https://res.cloudinary.com/plc/image/upload/v1562785856/portfolio/datatracking_vuokye.jpg",
 		"date": "June 2019 - Present",
 		"links": [
-			{ "name": "Website", "url": "" },
 			{
-				"name": "Repository",
+				"name": "Demo",
+				"url": ""
+			},
+			{
+				"name": "Github",
 				"url": ""
 			}
 		],
