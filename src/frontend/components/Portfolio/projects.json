@@ -1,12 +1,50 @@
 [
 	{
 		"id": 1,
+		"name": "Track Everything!",
+		"roles": [
+			"Conceptionist",
+			"Full Stack Developer",
+			"UI/UX Design"
+		],
+		"description": "ALADIN aims to offer a platform to students of different fields of study and provide a way to generate various tasks to simplify the preparation for exams and help along the way.",
+		"technologyUsed": [
+			"VueJS",
+			"Vuex",
+			"Node",
+			"Tailwind CSS",
+			"BEM",
+			"Webpack",
+			"Express",
+			"MongoDB",
+			"PWA",
+			"SQL",
+			"Graph Theory",
+			"NLP",
+			"ML"
+		],
+		"logoLink": "https://res.cloudinary.com/plc/image/upload/v1577630121/portfolio/graph_mxyymv.png",
+		"date": "December 2019 - Present",
+		"links": [
+			{
+				"name": "Demo",
+				"url": "https://aladin-htw.herokuapp.com/"
+			},
+			{
+				"name": "Github",
+				"url": "https://github.com/plc-dev/aladin"
+			}
+		],
+		"status": "In Progress"
+	},
+	{
+		"id": 2,
 		"name": "A Clockwork Magenta Registration",
 		"roles": [
 			"Full Stack Developer",
 			"UI/UX Design"
 		],
-		"description": "MVP to handle the visitors of a fair and managing the fair-exhibit, used by T-Systems.",
+		"description": "MVP to handle the visitors of a fair and managing the fair-exhibit, developed for T-Systems/MMS.",
 		"technologyUsed": [
 			"VueJS",
 			"Vuex",
@@ -33,7 +71,7 @@
 		"status": "Done"
 	},
 	{
-		"id": 2,
+		"id": 3,
 		"name": "How to read notes!",
 		"roles": [
 			"Owner",
@@ -61,36 +99,5 @@
 			}
 		],
 		"status": "Done"
-	},
-	{
-		"id": 3,
-		"name": "Track Everything!",
-		"roles": [
-			"Owner",
-			"Full Stack Developer"
-		],
-		"description": "Expenses, Food, Training... You gotta track em ALL!!",
-		"technologyUsed": [
-			"VueJS",
-			"Node",
-			"Express",
-			"MongoDB",
-			"GraphQL",
-			"PWA",
-			"IndexedDB"
-		],
-		"logoLink": "https://res.cloudinary.com/plc/image/upload/v1562785856/portfolio/datatracking_vuokye.jpg",
-		"date": "June 2019 - Present",
-		"links": [
-			{
-				"name": "Demo",
-				"url": ""
-			},
-			{
-				"name": "Github",
-				"url": ""
-			}
-		],
-		"status": "In Progress"
 	}
 ]

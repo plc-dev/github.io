@@ -76,7 +76,7 @@ export default () => (
 			<ItemContainer>
 				<Item
 					data="Resume"
-					link=""
+					link="https://res.cloudinary.com/plc/image/upload/v1577629591/portfolio/CV-english_t18ae1.pdf"
 					image={resume}
 				/>
 			</ItemContainer>
